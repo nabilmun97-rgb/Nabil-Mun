@@ -1,0 +1,8 @@
+{
+  "name": "Remix L\u0027Atelier Mode \u0026 Lifestyle",
+  "description": "Editorial social journal, designer lounges, and creative posting platform for lifestyle, fashion design, craftsmanship, and aesthetic curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
